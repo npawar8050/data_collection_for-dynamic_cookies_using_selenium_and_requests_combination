@@ -1,0 +1,7 @@
+MarketId	comOrderCode	manPartId	manName	EAN_Number	comCurrency	comProductURL	comImageURL	comPromotion	inDateAdded	comStockLoc_1	comStockQty_1	comStockLoc_2	comStockQty_2	comBreak_1	comPrice_1	comBreak_2	comPrice_2	comBreak_3	comPrice_3Other_info1	Other_info2	UOM	Packaging	Order_multiple_quantity	Minimumorderquantity	CountryofOrigin	RoHsCompliance	CustomsTarrifNo	Weightkg	TechnicalDataSheetURL	comCategory_L1	comCategory_L2	comCategory_L3	comCategory_L4	manPartDesc	Specification
+JP	C1S746200315132	Texas Instruments
+JP	C1S322000450301	Infineon Technologies
+JP	C1S322001045407	Infineon Technologies
+JP	C1S625901667279	Rohm
+JP	C1S322000455555	Infineon Technologies
+JP	C1S537100740900	NXP Semiconductors
